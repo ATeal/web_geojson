@@ -1,9 +1,9 @@
 # web_geojson
 
 ### Setup
- -- install flutter
- -- `flutter pub get`
- -- `flutter run  -d web`
+ - install flutter
+ - `flutter pub get`
+ - `flutter run  -d web`
 
 ## Getting Started
 
